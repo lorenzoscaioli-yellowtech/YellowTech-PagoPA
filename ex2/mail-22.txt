@@ -1,0 +1,22 @@
+ID: M22
+Da: Matteo Greco <m.greco@comune-pietrafonda.example>
+A: servizi-enti@nova.example
+Cc: -
+Data: 09/10/2026 11:20
+Oggetto: Re: [Ticket 4412] Modifica anagrafiche utenti
+Allegati: -
+
+Buongiorno,
+
+purtroppo il problema si è ripresentato: da ieri pomeriggio dalla mia
+utenza non riesco di nuovo a modificare le anagrafiche degli utenti,
+il pulsante "Salva" resta grigio. Le colleghe non hanno il problema.
+
+Matteo Greco
+Ufficio Anagrafe - Comune di Pietrafonda
+
+> Il 01/10/2026 Supporto Tecnico ha scritto:
+> Gentile Sig. Greco,
+> il problema è stato risolto. Ci scriva se dovesse ripresentarsi.
+> Cordiali saluti,
+> Team Servizi Digitali - Nova Servizi Digitali

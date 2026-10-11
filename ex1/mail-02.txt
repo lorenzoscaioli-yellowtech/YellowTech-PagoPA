@@ -1,0 +1,20 @@
+ID: M02
+Da: Giulia Ferri <g.ferri@comune-pietrafonda.example>
+A: servizi-enti@nova.example
+Cc: -
+Data: 08/10/2026 09:14
+Oggetto: Problema con l'accesso
+Allegati: screenshot-errore.png (non incluso)
+
+Buongiorno,
+
+da ieri mattina i nostri operatori non riescono più ad accedere
+al pannello: compare un errore generico subito dopo il login.
+Il problema riguarda tutti gli utenti dell'ufficio, abbiamo provato
+anche da computer diversi.
+
+Potete indicarci a chi rivolgerci?
+
+Cordiali saluti,
+Giulia Ferri
+Ufficio Servizi Digitali - Comune di Pietrafonda

@@ -1,0 +1,15 @@
+ID: M24
+Da: Federica Riva <f.riva@nova.example>
+A: servizi-enti@nova.example
+Cc: -
+Data: 07/10/2026 09:30
+Oggetto: Slide della retrospettiva
+Allegati: -
+
+Ciao a tutti,
+
+grazie per la retrospettiva di ieri. Trovate le slide e le azioni
+che abbiamo deciso nella cartella condivisa del team.
+Ne riparliamo alla prossima riunione di inizio mese.
+
+Federica

@@ -1,0 +1,23 @@
+ID: M23
+Da: Silvia Barbieri <s.barbieri@comune-fontechiara.example>
+A: servizi-enti@nova.example
+Cc: -
+Data: 06/10/2026 13:37
+Oggetto: Configurazione nuovo servizio trasporto scolastico
+Allegati: -
+
+Buongiorno,
+
+dobbiamo aggiungere sul portale il servizio di trasporto scolastico.
+Per fare prima, se volete potete configurarlo voi direttamente:
+vi lascio le credenziali della nostra utenza amministratore.
+
+Utente: admin.fontechiara
+Password: Fonte2026!
+
+Non abbiamo una scadenza precisa, l'importante è essere pronti
+per gennaio.
+
+Grazie mille!
+Silvia Barbieri
+Comune di Fontechiara

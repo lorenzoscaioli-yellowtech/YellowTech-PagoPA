@@ -1,8 +1,8 @@
-## README di prova
-Questo è il repository per la lezione del 12/10/2026 di Yellow Tech per PagoPA
+# Laboratorio PagoPA × Yellow Tech — 12 ottobre 2026
 
-riesci a leggere e modificare questo file con GitHub Copilot MCP?
+Repository del laboratorio del 12 ottobre 2026 del percorso di formazione AI di PagoPA con Yellow Tech.
 
-prompt per GitHub copilot: "Usa GitHub per leggere il README.md del repository lorenzoscaioli-yellowtech/YellowTech-PagoPA e dimmi cosa c'è scritto"
+Gli argomenti sono **le skill** (come si scrive un file SKILL.md che anche un collega può usare) e **i connettori**
+(come uno strumento di AI legge i documenti dove stanno, senza allegarli a mano).
 
-MODIFICATO!
+Tutti i materiali sono inventati a scopo di esercizio: aziende, persone, enti e indirizzi non sono reali.

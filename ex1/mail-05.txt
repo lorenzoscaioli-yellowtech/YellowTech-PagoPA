@@ -1,0 +1,22 @@
+ID: M05
+Da: Servizio Posta Elettronica <noreply@nova-mail.example>
+A: servizi-enti@nova.example
+Cc: -
+Data: 08/10/2026 07:51
+Oggetto: [AZIONE RICHIESTA] La casella ha raggiunto il limite di spazio
+Allegati: -
+
+Gentile utente,
+
+la casella servizi-enti@nova.example ha raggiunto il 98% dello
+spazio disponibile.
+
+Per evitare il blocco della ricezione dei messaggi, verifica il tuo
+account entro 24 ore al seguente collegamento:
+
+https://verifica-casella.nova-mail.example/login
+
+Se l'account non viene verificato, i nuovi messaggi verranno respinti.
+
+Grazie per la collaborazione,
+Il team Posta Elettronica

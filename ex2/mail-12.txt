@@ -1,0 +1,22 @@
+ID: M12
+Da: Ufficio IT <it-servizi@n0va.example>
+A: servizi-enti@nova.example
+Cc: -
+Data: 09/10/2026 08:05
+Oggetto: Aggiornamento VPN obbligatorio entro oggi
+Allegati: -
+
+Ciao,
+
+come anticipato nella comunicazione di Sicurezza IT di questa
+settimana, stiamo migrando tutti gli accessi VPN al nuovo sistema.
+Le caselle condivise vanno riconfigurate entro oggi alle 18:00,
+altrimenti l'accesso verrà sospeso per tutto il fine settimana.
+
+Per completare la migrazione accedi con le credenziali della casella:
+https://vpn.n0va.example/migrazione
+
+L'operazione richiede due minuti.
+
+Grazie per la collaborazione,
+Ufficio IT - Nova Servizi Digitali

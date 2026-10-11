@@ -1,0 +1,18 @@
+ID: M10
+Da: Risorse Umane <risorse.umane@nova.example>
+A: tutti@nova.example
+Cc: -
+Data: 06/10/2026 09:00
+Oggetto: Nuova procedura per le richieste di ferie
+Allegati: -
+
+Gentili colleghe e colleghi,
+
+dal 1° novembre le richieste di ferie e permessi si fanno solo dal
+nuovo portale HR, raggiungibile dalla intranet. Le richieste già
+approvate restano valide e non vanno ripresentate.
+
+Il manuale è disponibile nella sezione "Documenti" della intranet.
+
+Risorse Umane
+Nova Servizi Digitali

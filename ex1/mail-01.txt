@@ -1,0 +1,20 @@
+ID: M01
+Da: Paola Ricci <p.ricci@comune-valfiorita.example>
+A: servizi-enti@nova.example
+Cc: -
+Data: 05/10/2026 10:22
+Oggetto: Attivazione pagamenti mensa scolastica
+Allegati: -
+
+Buongiorno,
+
+il Comune di Valfiorita vorrebbe attivare sul Portale Pagamenti Enti
+anche i pagamenti della mensa scolastica. L'idea è partire con il
+nuovo trimestre, dal 2 novembre.
+
+Ci potete indicare quali passaggi dobbiamo seguire e quali
+informazioni vi servono da parte nostra?
+
+Grazie e buona giornata,
+Paola Ricci
+Ufficio Servizi Scolastici - Comune di Valfiorita

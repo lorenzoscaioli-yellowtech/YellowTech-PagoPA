@@ -1,0 +1,20 @@
+ID: M25
+Da: Sicurezza IT <sicurezza.it@nova.example>
+A: tutti@nova.example
+Cc: -
+Data: 06/10/2026 10:00
+Oggetto: Nuove regole per le password e la VPN
+Allegati: -
+
+Gentili colleghe e colleghi,
+
+dal 1° novembre le password andranno cambiate ogni 90 giorni e
+l'accesso VPN richiederà la verifica in due passaggi, che attiveremo
+noi in modo graduale. Adesso non dovete fare nulla: vi scriveremo
+quando sarà il vostro turno.
+
+Vi ricordiamo che l'Ufficio IT non vi chiederà mai di inserire le
+vostre credenziali tramite un link ricevuto per mail.
+
+Sicurezza IT
+Nova Servizi Digitali

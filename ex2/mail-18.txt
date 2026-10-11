@@ -1,0 +1,18 @@
+ID: M18
+Da: Chiara Fontana <c.fontana@nova.example>
+A: servizi-enti@nova.example
+Cc: -
+Data: 08/10/2026 15:12
+Oggetto: estrazione volumi settembre
+Allegati: -
+
+Ciao!
+
+Per il report alla direzione mi servirebbe entro domani a mezzogiorno
+l'estrazione dei volumi di settembre per ente (numero di pagamenti
+e importo totale). Riuscite a mandarmela? Il formato che usate
+di solito va benissimo.
+
+Grazie mille,
+Chiara
+Team Analisi e Report

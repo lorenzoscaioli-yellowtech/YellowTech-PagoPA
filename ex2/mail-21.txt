@@ -1,0 +1,19 @@
+ID: M21
+Da: Eventi PA Digitale <news@eventipadigitale.example>
+A: servizi-enti@nova.example
+Cc: -
+Data: 05/10/2026 08:00
+Oggetto: Webinar gratuito: l'intelligenza artificiale negli enti locali
+Allegati: -
+
+Gentile lettore,
+
+giovedì 22 ottobre alle 11:00 ti aspettiamo al webinar gratuito
+"L'intelligenza artificiale negli enti locali: casi e strumenti".
+Interverranno dirigenti di Comuni e Regioni.
+
+Iscriviti qui: https://eventipadigitale.example/webinar-ia
+
+Ricevi questa comunicazione perché sei iscritto alla nostra
+newsletter. Per non ricevere più queste comunicazioni:
+https://eventipadigitale.example/disiscrizione

@@ -1,0 +1,21 @@
+ID: M16
+Da: Accounts CloudPrint <accounts@cloudprint-billing.example>
+A: servizi-enti@nova.example
+Cc: -
+Data: 06/10/2026 18:33
+Oggetto: Updated bank details for upcoming payments
+Allegati: new_bank_details.pdf (non incluso)
+
+Dear Customer,
+
+please be informed that, following an internal audit, CloudPrint Ltd
+has changed its banking partner. All future payments, including
+invoice CP-2026-0931 due on 15 October, should be made to the new
+account indicated in the attached letter.
+
+Kindly update your records and confirm by return email.
+The previous account will be closed at the end of this week.
+
+Best regards,
+Accounts Department
+CloudPrint Ltd

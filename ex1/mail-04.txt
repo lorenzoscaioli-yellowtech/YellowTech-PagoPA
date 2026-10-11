@@ -1,0 +1,19 @@
+ID: M04
+Da: Stefano Gallo <s.gallo@nova.example>
+A: servizi-enti@nova.example
+Cc: team-operations@nova.example
+Data: 07/10/2026 17:05
+Oggetto: Manutenzione programmata sabato 10/10
+Allegati: -
+
+Ciao a tutti,
+
+sabato 10 ottobre dalle 22:00 alle 24:00 facciamo l'aggiornamento
+del database del Portale Pagamenti Enti. Il portale resta
+raggiungibile, ma i pagamenti saranno sospesi per circa 30 minuti.
+
+Gli enti li abbiamo già avvisati con la comunicazione di servizio,
+quindi da parte vostra non serve fare nulla.
+
+Stefano
+Operations

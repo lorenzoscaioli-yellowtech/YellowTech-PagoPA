@@ -1,0 +1,19 @@
+ID: M19
+Da: Giorgio Pellegrini <g.pellegrini@comune-lagoverde.example>
+A: servizi-enti@nova.example
+Cc: -
+Data: 07/10/2026 16:44
+Oggetto: Errore nel modulo di adesione
+Allegati: errore500.png (non incluso)
+
+Buongiorno,
+
+stiamo completando l'adesione del Comune di Lagoverde al portale,
+come da vostre istruzioni. Quando salviamo il modulo di attivazione,
+all'ultimo passaggio compare "Errore 500" e perdiamo tutti i dati
+inseriti. Abbiamo provato tre volte, da due computer diversi.
+
+Come possiamo fare?
+
+Giorgio Pellegrini
+Ufficio Informatico - Comune di Lagoverde

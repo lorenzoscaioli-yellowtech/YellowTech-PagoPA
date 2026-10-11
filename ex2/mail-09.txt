@@ -1,0 +1,22 @@
+ID: M09
+Da: Ragioneria Comune di Pietrafonda <ragioneria@comune-pietrafonda.example>
+A: servizi-enti@nova.example
+Cc: -
+Data: 09/10/2026 08:47
+Oggetto: Fattura n. 45 e riconciliazione di settembre
+Allegati: -
+
+Buongiorno,
+
+stiamo chiudendo la riconciliazione di settembre relativa alla vostra
+fattura n. 45. Per farlo ci servono le ricevute dei pagamenti
+incassati, ma da martedì non riusciamo più a scaricarle dal portale:
+il pulsante "Esporta" restituisce un file vuoto, a tutti gli uffici
+del Comune.
+
+Senza le ricevute non possiamo neanche rendicontare gli incassi
+alla Tesoreria. Potete aiutarci?
+
+Grazie,
+Daniela Russo
+Ragioneria - Comune di Pietrafonda
